@@ -22,5 +22,5 @@ Assignment 8 - Geopandas, plotly express and foluim.
 
 Assignment 9 - working with pySpark, classifiers map visualization and more.
 
-For the Final project, I analyzed the impact of Yelp businesses and AirBnb on local housing prices in US to discover useful and insightful information using all the knowledge I gain in the course. 
+For the Final project, I analyzed the impact of Yelp businesses and AirBnb on local housing prices over US to discover useful and insightful information using all the knowledge I gain in the course. 
 
